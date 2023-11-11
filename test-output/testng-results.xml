@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="8" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-31T14:43:17 IST" name="Suite" finished-at="2023-10-31T14:43:34 IST" duration-ms="17377">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T14:43:17 IST" name="Test" finished-at="2023-10-31T14:43:34 IST" duration-ms="17377">
+      <class name="Problem_3and4.Problem4">
+        <test-method is-config="true" signature="automationAnyWhere()[pri:0, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:17 IST" name="automationAnyWhere" finished-at="2023-10-31T14:43:26 IST" duration-ms="8716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationAnyWhere -->
+        <test-method signature="verifyProductLink()[pri:1, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:26 IST" name="verifyProductLink" finished-at="2023-10-31T14:43:26 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductLink -->
+        <test-method signature="verifyBeyondrpaLink()[pri:3, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:26 IST" name="verifyBeyondrpaLink" finished-at="2023-10-31T14:43:26 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBeyondrpaLink -->
+        <test-method signature="verifyResoursesLink()[pri:4, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:26 IST" name="verifyResoursesLink" finished-at="2023-10-31T14:43:26 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResoursesLink -->
+        <test-method signature="verifyCompanyLink()[pri:5, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:26 IST" name="verifyCompanyLink" finished-at="2023-10-31T14:43:26 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompanyLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Problem_3and4.Problem4@5d534f5d]" started-at="2023-10-31T14:43:26 IST" name="tearDown" finished-at="2023-10-31T14:43:26 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Problem_3and4.Problem4 -->
+      <class name="Problem_3and4.Problem3">
+        <test-method is-config="true" signature="automationAnyWhere()[pri:0, instance:Problem_3and4.Problem3@4a883b15]" started-at="2023-10-31T14:43:26 IST" name="automationAnyWhere" finished-at="2023-10-31T14:43:34 IST" duration-ms="8015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationAnyWhere -->
+        <test-method signature="logverify()[pri:1, instance:Problem_3and4.Problem3@4a883b15]" started-at="2023-10-31T14:43:34 IST" name="logverify" finished-at="2023-10-31T14:43:34 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logverify -->
+        <test-method signature="verifyRequestDemoButton()[pri:2, instance:Problem_3and4.Problem3@4a883b15]" started-at="2023-10-31T14:43:34 IST" name="verifyRequestDemoButton" finished-at="2023-10-31T14:43:34 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRequestDemoButton -->
+        <test-method signature="verifyRequestDemoButtonIsClickableOrNot()[pri:3, instance:Problem_3and4.Problem3@4a883b15]" started-at="2023-10-31T14:43:34 IST" name="verifyRequestDemoButtonIsClickableOrNot" finished-at="2023-10-31T14:43:34 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRequestDemoButtonIsClickableOrNot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Problem_3and4.Problem3@4a883b15]" started-at="2023-10-31T14:43:34 IST" name="tearDown" finished-at="2023-10-31T14:43:34 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Problem_3and4.Problem3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
